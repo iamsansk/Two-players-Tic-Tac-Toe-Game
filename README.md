@@ -12,4 +12,7 @@ Welcome to our Two Players Tic Tac Toe Game!
 2. Open the terminal and navigate to the project directory.
 3. Run the game in your favourite browser.
 
+# Project Preview
+https://iamsansk.github.io/Two-players-Tic-Tac-Toe-Game/
 Have fun playing! Feel free to contribute or provide feedback.
+
